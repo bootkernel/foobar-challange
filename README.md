@@ -1,2 +1,2 @@
 # foobar-challange
-Secret Challenge By Google
+Secret Challenge by Google
