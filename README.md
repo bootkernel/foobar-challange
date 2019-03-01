@@ -5,6 +5,4 @@ Secret Challenge by Google
 
 It was a pure learning experience. After each submission this cute ASCII bunny showed up.
 
-![Image of Bunny]
-https://raw.githubusercontent.com/bootkernel/foobar-challange/master/Screen%20Shot%202019-03-01%20at%2011.36.14%20AM.png
-
+![1](./bunny.png)
